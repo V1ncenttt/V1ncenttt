@@ -1,6 +1,27 @@
 <h1 align="center">Hi 👋, I'm Vincent</h1>
 <h3 align="center">I'm a machine learning engineer with a strong scientific mindset.</h3>
 
+🎓 MSc in Artificial Intelligence and Machine Learning @ Imperial College London  
+🧠 Engineer @ CentraleSupélec | 🇫🇷🇬🇧 Dual Academic Background  
+🔬 Passionate about AI for Scientific Discovery | 🧪 Weather, Bio, Medicine
+
+---
+
+## 🧑‍💻 About Me
+
+I'm a machine learning engineer with a strong scientific mindset, currently working on AI-driven platforms in bioinformatics and climate modeling. I thrive in fast-paced, research-driven environments where I can apply cutting-edge techniques to solve real-world problems.
+
+My experience spans:
+
+- Probabilistic and deterministic models for weather forecasting (MSc Thesis)
+- Real-time ML-powered systems (e.g. AKI prediction and CS2 analytics)
+- Software engineering best practices: CI/CD, containerization, modular APIs
+- Full-stack prototyping of ML-driven platforms from backend to UI
+
+---
+
+## 🚀 Skills
+
 - 🔭 I’m currently working on **my Masters' thesis on probabilistic ML for Weather prediction**
 
 - 🌱 I’m currently learning **Rust**
