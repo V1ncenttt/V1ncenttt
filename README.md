@@ -31,7 +31,7 @@ My experience spans:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=v1ncenttt&show_icons=true&locale=en&layout=compact" alt="v1ncenttt" /></p>
 
---
+---
 
 ## 🧪 Projects Highlights
 
