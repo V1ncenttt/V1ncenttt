@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vincent</h1>
-<h3 align="center">I'm a machine learning engineer with a strong scientific mindset.</h3>
+<h3 align="center">I'm a machine learning engineer with a strong scientific mindset, Working for Mistral AI .</h3>
 
 🎓 MSc in Artificial Intelligence and Machine Learning @ Imperial College London  
 🧠 Former Engineering sudent @ CentraleSupélec | 🇫🇷🇬🇧 Dual Academic Background  
@@ -35,10 +35,9 @@ My experience spans:
 
 ## 🧪 Projects Highlights
 
-- **WeatherBench2 Forecasting**: Benchmarked generative vs deterministic models for field forecasting under noise and sparsity constraints.
+- **WeatherBench2 Forecasting**: Benchmarked generative vs deterministic models for weather field reconstruction under noise and sparsity constraints.
 - **Bio ML Platform**: Built workflow engine to launch biology FMs, track execution, visualize embeddings (Next.js + FastAPI + Celery).
-- **CS2 Broadcasting Platform**: ML models for POV selection and win probability prediction, API in Rust + Electron UI.
-- **AKI Prediction System**: Built and deployed an end-to-end ML pipeline with alerting and patient history handling.
+- **AKI Prediction System**: Built and deployed an end-to-end ML pipeline with alerting and patient history handling, integrating a diagnosis ML model.
 
 ---
 
