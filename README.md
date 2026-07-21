@@ -22,7 +22,7 @@ My experience spans:
 
 ## 🚀 Skills
 
-- 🔭 I’m currently working on **my Masters' thesis on probabilistic ML for Weather prediction**
+- 🔭 I’m currently working on **IAM stuff at Mistral AI**
 
 - 🌱 I’m currently learning **Rust**
 
